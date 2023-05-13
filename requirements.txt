@@ -2,3 +2,7 @@ pyTelegramBotApi
 gspread
 lxml
 flake8
+black
+bs4
+requests
+rich
