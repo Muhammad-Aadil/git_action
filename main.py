@@ -6,6 +6,7 @@ def get_config():
     with open("config.json", "r") as f:
         return json.loads(f.read())
 
+test = 'hello'
 
 config = get_config()
 token = config["token"]
